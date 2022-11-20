@@ -20,7 +20,7 @@ Hemos visto también que el procesamiento de las imágenes se da en varias etapa
 -	Microcontrolador ESP32 CAM con cámara OV2640 <img src="https://github.com/ferhs343/Servidor-web-con-el-ESP32-CAM/blob/main/esp.png" width="60">
 -	Circuito convertidor USB-TTL <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 -	Cable de datos USB-USB mini <img src="https://github.com/ferhs343/Servidor-web-con-el-ESP32-CAM/blob/main/usb.png" width="50">
--	Cable de red <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+-	Cable de red <img src="https://github.com/ferhs343/Servidor-web-con-el-ESP32-CAM/blob/main/utp.png" width="55">
 -	Computadora <img src="https://github.com/ferhs343/Servidor-web-con-el-ESP32-CAM/blob/main/ClutteredSimpleKissingbug-max-1mb.gif" width="50">
 -	Modem (se conectará el esp32 con SSID y el password del modem) <img src="https://github.com/ferhs343/Servidor-web-con-el-ESP32-CAM/blob/main/modem.png" width="65">
 ------------
