@@ -135,7 +135,7 @@ En la línea correspondiente a la variable stream pegamos la dirección que nos 
 	
 <p align="justify"> Una vez concluida la presente práctica “ESP-32CAM” se adquirió conocimiento teórico como práctico acerca del análisis, configuración y uso del microcontrolador. Como primer punto, se configuró la PC que se usaría para la programación y uso del microcontrolador, dicha configuración implicó la instalación de drivers del ESP y el IDE de Arduino en su versión 1.8.19.
 Después de tener listo el equipo de cómputo, se prosiguió a instalar las dependencias y librerías para el microcontrolador, así como la ejecución del código ejemplo ESP-32, como resultado nos arrojaría una dirección IP de manera local en la cual se podría ver la transmisión de la cámara.
-Si bien es cierto, en nuestro equipo tuvimos inconvenientes con el dispositivo, el cual fue la tarjeta programador ya que nuestro pc no lograba establecer conexión con la dirección local, pero gracias al uso de otro microcontrolador logramos obtener los resultados esperados. En síntesis, fue una práctica muy completa y enriquecedora en los aspectos planteados. -Israel Uzan Martínez </p></a>
+Si bien es cierto, en nuestro equipo tuvimos inconvenientes con el dispositivo, el cual fue la tarjeta programador ya que nuestro pc no lograba establecer conexión con la dirección local, pero gracias al uso de otro microcontrolador logramos obtener los resultados esperados. En síntesis, fue una práctica muy completa y enriquecedora en los aspectos planteados. <b> - <a href="https://www.github.com/israelu">Israel Uzan Martínez </b> </p> </a>
 
 
 
