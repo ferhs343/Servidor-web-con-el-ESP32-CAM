@@ -14,3 +14,12 @@
 ### Introducción 
 Como se ha visto en la primera parte del curso, el procesamiento de imágenes realiza muchas transformaciones de la información contenida de una imagen digital y esto se traduce en cambios que nos permiten visualizar, corregir, mejorar, cambiar o extraer los datos de intensidad de color en las dichas imágenes.
 Hemos visto también que el procesamiento de las imágenes se da en varias etapas y cada etapa es importante porque en cada una de ellas se mejorar la información que se está tratando. En Los sistemas de PDI (o sistemas de visión artificial) las etapas más importantes son la adquisición, el preprocesado, la segmentación, el reconocimiento y la descripción de la imagen. En esta práctica abordaremos la etapa de adquisición de imagen digitales programando un circuito que nos permita obtener imágenes digitales que se enviaran a un servidor web y a las que podremos acceder vía WiFi o vía streaming.
+
+
+### Material Necesario
+-	Microcontrolador ESP32 CAM con cámara OV2640
+-	Circuito convertidor USB-TTL
+-	Cable de datos USB-USB mini
+-	Cable de red
+-	Computadora 
+-	Modem (se conectará el esp32 con SSID y el password del modem)
