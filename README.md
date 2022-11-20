@@ -17,7 +17,7 @@ Hemos visto también que el procesamiento de las imágenes se da en varias etapa
 
 
 ### Material Necesario
--	Microcontrolador ESP32 CAM con cámara OV2640 <img src="https://github.com/ferhs343/Servidor-web-con-el-ESP32-CAM/blob/main/esp.png" width="30">
+-	Microcontrolador ESP32 CAM con cámara OV2640 <img src="https://github.com/ferhs343/Servidor-web-con-el-ESP32-CAM/blob/main/esp.png" width="50">
 -	Circuito convertidor USB-TTL <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 -	Cable de datos USB-USB mini <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 -	Cable de red <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
