@@ -23,3 +23,15 @@ Hemos visto también que el procesamiento de las imágenes se da en varias etapa
 -	Cable de red <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 -	Computadora <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 -	Modem (se conectará el esp32 con SSID y el password del modem) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+
+### Software necesario
+El software se instalará en la computadora donde conectaremos nuestro ESP32 CAM. Respetar la versión del software que se indica para evitar conflictos entre las bibliotecas.  
+-  IDE de Arduino 1.8.19
+- Drivers (Windows) para el esp32 cam (se comparte en el material semanal)
+- IDE de Python (se recomienda la versión 3.7 de Python)
+	- La biblioteca OpenCv para python versión 4.2.x
+- Bibliotecas de Arduino para el manejo del esp32 CAM
+	- https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json  (en preferencias-- Gestor de URLS)
+	- Instalar en el <gestor de tarjetas del IDE de Arduino> la tarjeta ESP32 de Expressif Systemas
+	- La biblioteca CameraWebServer de los ejemplos para la ESP32 CAM de AI Thinker
+	- Navegador web  
