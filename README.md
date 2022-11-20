@@ -17,7 +17,7 @@ Hemos visto también que el procesamiento de las imágenes se da en varias etapa
 
 
 ### Material Necesario
--	Microcontrolador ESP32 CAM con cámara OV2640
+-	Microcontrolador ESP32 CAM con cámara OV2640 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 -	Circuito convertidor USB-TTL
 -	Cable de datos USB-USB mini
 -	Cable de red
