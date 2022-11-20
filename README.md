@@ -141,7 +141,10 @@ Si bien es cierto, en nuestro equipo tuvimos inconvenientes con el dispositivo, 
 
 ### Carpeta con los códigos usados
 ------------
-
+<div align="center">
+<a href="https://github.com/ferhs343/Servidor-web-con-el-ESP32-CAM/tree/main/C%C3%B3digos">
+<img align="center"  width="300px" src="https://media.tenor.com/yKBEWys7yREAAAAM/wtf.gif" />
+</a> &nbsp; </div>
 
 ### Evidencias de la práctica
 ------------
