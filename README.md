@@ -137,7 +137,7 @@ En la línea correspondiente a la variable stream pegamos la dirección que nos 
 Después de tener listo el equipo de cómputo, se prosiguió a instalar las dependencias y librerías para el microcontrolador, así como la ejecución del código ejemplo ESP-32, como resultado nos arrojaría una dirección IP de manera local en la cual se podría ver la transmisión de la cámara.
 Si bien es cierto, en nuestro equipo tuvimos inconvenientes con el dispositivo, el cual fue la tarjeta programador ya que nuestro pc no lograba establecer conexión con la dirección local, pero gracias al uso de otro microcontrolador logramos obtener los resultados esperados. En síntesis, fue una práctica muy completa y enriquecedora en los aspectos planteados. <b> - <a href="https://www.github.com/israelu">Israel Uzan Martínez </b> </p> </a>
 
-
+<p align="justify"> Concluida la práctica 2 “Servidor-web-con-el-ESP32-CAM” logramos programar un servidor webcam usando el controlador ESP32 CAM en conjunto con el programa de Arduino en su versión 1.18.19 y el código de Python para que en conjunto se lograra tener los resultados que obtuvimos. Los resultados fueron impresionantes, ya que con un simple microcontrolador y una conexión a la red WiFi de un modem logramos establecer una conexión satisfactoria con una IP para acceder vía streaming a la cámara web. <b> - <a href="https://www.github.com/pabloolivos">Pablo Gerardo Olivos Guerrero</b> </p> </a>
 
 ### Carpeta con los códigos usados
 ------------
