@@ -18,8 +18,8 @@ Hemos visto también que el procesamiento de las imágenes se da en varias etapa
 
 ### Material Necesario
 -	Microcontrolador ESP32 CAM con cámara OV2640 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
--	Circuito convertidor USB-TTL
--	Cable de datos USB-USB mini
--	Cable de red
--	Computadora 
--	Modem (se conectará el esp32 con SSID y el password del modem)
+-	Circuito convertidor USB-TTL <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+-	Cable de datos USB-USB mini <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+-	Cable de red <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+-	Computadora <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+-	Modem (se conectará el esp32 con SSID y el password del modem) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
