@@ -121,10 +121,7 @@ En la línea correspondiente a la variable stream pegamos la dirección que nos 
 
 ### Resultados
 ------------
-![image](https://user-images.githubusercontent.com/114788305/202881966-0333ffdc-7dad-4e26-96bd-851b1b00f3d3.png)
-![image](https://user-images.githubusercontent.com/114788305/202882008-ce256365-8cbf-4704-be41-be0aea7d4a6b.png)
-![image](https://user-images.githubusercontent.com/114788305/202882822-13239088-b961-4a2d-ac83-0237a5788a17.png)
-![image](https://user-images.githubusercontent.com/114788305/202882794-9ea54030-2fec-4ba9-b6eb-4ce118b57520.png)
+
 
 ### Conclusiones
 ------------
@@ -140,7 +137,6 @@ Si bien es cierto, en nuestro equipo tuvimos inconvenientes con el dispositivo, 
 
 ### Evidencias de la práctica
 ------------
-![image](https://user-images.githubusercontent.com/114788305/202882765-ec16fb75-bc7a-41ba-9986-e7c3caddeab5.png)
-![image](https://user-images.githubusercontent.com/114788305/202882836-48bb20d0-1733-4b79-8921-cac84dca4407.png)
+
 
 
