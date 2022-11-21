@@ -150,7 +150,9 @@ Si bien es cierto, en nuestro equipo tuvimos inconvenientes con el dispositivo, 
 
 <p align="justify"> Concluida la práctica 2 “Servidor-web-con-el-ESP32-CAM” logramos programar un servidor webcam usando el controlador ESP32 CAM en conjunto con el programa de Arduino en su versión 1.18.19 y el código de Python para que en conjunto se lograra tener los resultados que obtuvimos. Los resultados fueron impresionantes, ya que con un simple microcontrolador y una conexión a la red WiFi de un modem logramos establecer una conexión satisfactoria con una IP para acceder vía streaming a la cámara web. <b> - <a href="https://www.github.com/pabloolivos">Pablo Gerardo Olivos Guerrero</b> </p> </a>
 
-<p align="justify">  la elaboración de esta práctica se me hizo muy interesante, ya que me llamo mucho la atención el funcionamiento del microcontrolador usado, así como el uso del lenguaje python y C para hacer que funcione correctamente. <b> - <a href="https://www.github.com/israelu">Luis Fernando Herrera Serrano</b> </p> </a>
+<p align="justify">  la elaboración de esta práctica se me hizo muy interesante, ya que me llamo mucho la atención el funcionamiento del microcontrolador usado, así como el uso del lenguaje python y C para hacer que funcione correctamente. <b> - <a href="https://www.github.com/ferhs343">Luis Fernando Herrera Serrano</b> </p> </a>
+
+<p align="justify"> En la presente practica se hizo uso del dispositivo ESP-32CAM donde pudimos usar una paqueteria de aqui mismo para analizar y configurar dicho dispositivo, como se vio en la presente practica pudimos conectar la camara en una conexion wifi para asi hacer que se pueda trasnmitir la camara y usarla para capturar imagenes o video en su defecto. <b> - <a href="https://github.com/Fernand0Guzman%22%3ELuis Fernando Guzman Licona</b> </p> </a>
 
 
 ### Carpeta con los códigos usados
