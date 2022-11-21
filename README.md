@@ -155,6 +155,7 @@ Si bien es cierto, en nuestro equipo tuvimos inconvenientes con el dispositivo, 
 <p align="justify"> En la presente practica se hizo uso del dispositivo ESP-32CAM donde pudimos usar una paqueteria de aqui mismo para analizar y configurar dicho dispositivo, como se vio en la presente practica pudimos conectar la camara en una conexion wifi para asi hacer que se pueda trasnmitir la camara y usarla para capturar imagenes o video en su defecto. <b> - <a href="https://github.com/Fernand0Guzman%22%3ELuis Fernando Guzman Licona</b> </p> </a>
 
 
+
 ### Carpeta con los códigos usados
 ------------
 <div align="center">
