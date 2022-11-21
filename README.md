@@ -1,7 +1,18 @@
 <h1 align="center"> <a href="https://www.unitec.mx">UNIVERSIDAD TECNOLÓGICA DE MÉXICO</h1> </a>
  <h3 align="center"> Procesamiento Digital de imagenes </h3></a>
  <br>
+ 
+## MISIÓN INSTITUCIONAL
+Generar y ofrecer servicios educativos en los niveles medio superior, superior y posgrado; conjugando educación científica y tecnológica así como la innovación sobre una base de humanismo; promoviendo una actitud de aprendizaje permanente, una cultura basada en el esfuerzo y un espíritu de superación; combinando la profundidad en el estudio de cada disciplina con una visión amplia de la empresa, la sociedad y la vida; procurando elevar permanentemente la calidad académica; adecuando nuestros procesos educativos a las diversas necesidades de los estudiantes, y aprovechando eficientemente los recursos de la Institución para dar acceso a grupos más amplios de la sociedad.
+
+## VISIÓN INSTITUCIONAL 
+Institución educativa particular de mayor tamaño en el país, reconocida como una de las mejores por su calidad e integridad académica, innovación, formación profesional y la competitividad de sus egresados. 
+
+ 
 <img align='right' src="https://github.com/ferhs343/Servidor-web-con-el-ESP32-CAM/blob/main/clipart4611933.png" width="330">
+
+### Objetivo
+------------
 <p><em>La presente práctica tiene como objetivo analizar e implementar el uso del microcontrolados ESP32CAM con la finalidad de utlizarlo mediante el IDE de Arduino, asi como phyton para capturar y visualizar imágenes y videos.</p></em>
 
 <h2> Integrantes <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2>
